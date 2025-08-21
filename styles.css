@@ -86,3 +86,9 @@ h1 {
     color: #333;
 }
 
+a {
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 20px;
+    color: #333;
+}
