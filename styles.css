@@ -94,9 +94,8 @@ h1 {
     margin-top: 20px;
 }
 
-.link-centro a {
+.btn {
     display: inline-block;
-    background-color: #ff5a5a;
     color: #fff;
     padding: 12px 24px;
     border-radius: 8px;
@@ -106,7 +105,22 @@ h1 {
     transition: background 0.3s ease, transform 0.2s ease;
 }
 
-.link-centro a:hover {
-    background-color: #ff3030;
+.btn:hover {
     transform: scale(1.05);
+}
+
+.vermelho {
+    background-color: #ff5a5a;
+}
+
+.vermelho:hover {
+    background-color: #ff3030;
+}
+
+.verde {
+    background-color: #28a745;
+}
+
+.verde:hover {
+    background-color: #218838;
 }
